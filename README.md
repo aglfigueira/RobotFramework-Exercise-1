@@ -1,6 +1,11 @@
 # RobotFramework-Exercise-1
 
 
+
+This project uses the Browser Library 
+https://robotframework-browser.org/
+
+
 1. Launch Browser
 2. Navigate to the page 'http://automationexercise.com
 3. Navigate to the 'Products' page
